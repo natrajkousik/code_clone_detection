@@ -1,0 +1,19 @@
+
+🔹 **Clone Detection Summary:**
+Total Clones Detected: 960000
+clone_type
+Type-3 (Modified Clone)    388296
+Type-4 (Semantic Clone)    216933
+Type-2 (Renamed Clone)     216711
+Not a Clone                118822
+Type-1 (Exact Clone)        19238
+
+🔹 **Refactoring Summary:**
+refactoring_suggestion
+Partial Extraction Possible    388296
+Refactoring Not Recommended    335755
+Extract Method Suggested       235949
+
+🔹 **Code Quality Improvement:**
+- Average LOC Before: 9.29 → After: 4.05 (Reduction: 5.24)
+- Average Cyclomatic Complexity Before: 1 → After: 0.69 (Reduction: 0.31)
